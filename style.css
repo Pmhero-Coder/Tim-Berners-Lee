@@ -103,3 +103,15 @@ p {
 #description {
     text-align: justify;
 }
+
+a {
+    text-decoration: underline;
+}
+
+.article:hover {
+    color: darkorchid;
+}
+
+html {
+    scroll-behavior: smooth;
+}
